@@ -1,0 +1,19 @@
+﻿body{background-color:#eee;margin:0;padding:0;}
+.reg{width:600px;margin:13% auto 0 auto;padding:20px;border:1px solid #ccc;}
+.reg .title{text-align:center;padding-bottom:10px;}
+.reg th{font-weight:normal;text-align:right;}
+.reg input{width:180px;border:1px solid #ccc;height:20px;padding-left:4px;}
+.reg select{width:180px;border:1px solid #ccc;height:20px;padding-left:4px;}
+.reg .button{background-color:#0099ff;border:1px solid #0099ff;color:#fff;width:80px;height:25px;margin:0 5px;cursor:pointer;}
+.reg .td-btn{text-align:center;padding-top:10px;}
+
+/*
+body{background-color:#eee;margin:0;padding:0;}
+.reg{width:600px;margin:15px;padding:20px;border:1px solid #ccc;background-color:#fff;}
+.reg .title{text-align:center;padding-bottom:10px;}
+.reg th{font-weight:normal;text-align:right;}
+.reg input{width:180px;border:1px solid #ccc;height:20px;padding-left:4px;}
+.reg .button{background-color:#0099ff;border:1px solid #0099ff;color:#fff;width:80px;height:25px;margin:0 5px;cursor:pointer;}
+.reg .td-btn{text-align:center;padding-top:10px;}
+.reg select{width:180px;border:1px solid #ccc;height:20px;padding-left:4px;}
+*/
